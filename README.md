@@ -8,12 +8,13 @@
 │   ├── app.js                  # Where all the magic happens
 │   ├── package.json            # All the dependencies I needed
 │   ├── test-script.js          # Tests to make sure I didn't break anything
-│   └── README.md               # More detailed docs for the service
 ├── Logging Middleware/         # My custom logging solution
 │   ├── index.js               # The main entry point
 │   ├── logger.js              # Does all the heavy lifting for logging
 │   └── package.json           # Just axios, really
-└── README.md                  # You're reading it! 📖
+└── README.md                  # You're reading it! 
+└── .gitignore                 # has the modules
+└── SystemDesign.pdf           # A thorough system design
 ```
 
 ### Requirements
